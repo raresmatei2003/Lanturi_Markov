@@ -1,3 +1,5 @@
+#Lanturi_Markov
+
 parse_labyrinth: Citesc matricea din fisier.
 
 get_adjacency_matrix: Am completat adiacenta pentru numerele ce se afla
