@@ -1,4 +1,4 @@
-#Lanturi_Markov
+# Lanturi_Markov
 
 parse_labyrinth: Citesc matricea din fisier.
 
